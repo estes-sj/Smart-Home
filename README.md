@@ -41,3 +41,6 @@
 
 ### Alexa Commands
 -
+
+## Projects to Consider/Future Works
+- Personalized Home Security System using reed switches for doors and motion sensors
