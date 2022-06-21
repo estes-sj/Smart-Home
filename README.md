@@ -4,9 +4,9 @@
 ## Project List
 - [x] Split-tunnel/Full-tunnel Wireguard VPN through (Pi Zero)
 - [x] Bitwarden Password Manager (Raspberry Pi)
-- [] Chicken Coop camera
-- [] Greenhouse temperture controls
-- [] Alexa Commands
+- [ ] Chicken Coop camera
+- [ ] Greenhouse temperture controls
+- [ ] Alexa Commands
 
 ## TODO (Current Upcoming Tasks)
 ### Chicken Coop
